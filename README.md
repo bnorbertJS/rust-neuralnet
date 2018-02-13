@@ -1,1 +1,1 @@
-Practising Rust by creating a deep feedforward neural net from scratch
+Practising Rust by creating a deep feedforward neural net from scratch!
