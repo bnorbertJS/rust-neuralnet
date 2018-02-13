@@ -1,4 +1,4 @@
 /target/
 **/*.rs.bk
-/src/*.exe
-/src/*.pdb
+/src/main.exe
+/src/main.pdb
